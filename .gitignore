@@ -53,5 +53,5 @@ dkms.conf
 
 # Custom
 *.user
-.idea/
-.DS_Store/
+.idea
+.DS_Store
